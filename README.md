@@ -38,11 +38,11 @@ I'm happy to help with anything related to Core PHP Projects Whether it's coding
 
 ## 😄 Pronouns
 
-[Your Pronouns - He/Him]
+He/Him
 
 ## ⚡ Fun Fact
 
-[Interesting Fact About Yourself]
+Will Tell you Later...
 
 ## 📊 GitHub Stats
 
