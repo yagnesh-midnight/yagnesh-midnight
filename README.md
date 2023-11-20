@@ -1,6 +1,6 @@
 # Hello, I'm Yagnesh Bhanani! 👋
 
-I'm a passionate Web Development based in Bhavnagar, Gujarat, India. My expertise lies in Core PHP and I'm always eager to learn and explore new things.
+I'm a passionate Backend Web Developer based in Bhavnagar, Gujarat, India. My expertise lies in Core PHP and I'm always eager to learn and explore new things.
 
 ## 🔧 Technologies & Tools
 
