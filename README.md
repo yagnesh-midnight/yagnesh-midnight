@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Yagnesh Bhanani! 👋
 
-I'm a passionate [Your Profession or Field] based in [Your Location]. My expertise lies in [Your Skills or Technologies], and I'm always eager to learn and explore new things.
+I'm a passionate Web Development based in Bhavnagar, Gujarat, India. My expertise lies in Core PHP and I'm always eager to learn and explore new things.
 
 ## 🔧 Technologies & Tools
 
@@ -38,7 +38,7 @@ I'm happy to help with anything related to Core PHP Projects Whether it's coding
 
 ## 😄 Pronouns
 
-[Your Pronouns - e.g., He/Him, She/Her, They/Them]
+[Your Pronouns - He/Him]
 
 ## ⚡ Fun Fact
 
