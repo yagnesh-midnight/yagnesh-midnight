@@ -19,9 +19,6 @@ I'm a passionate Backend Web Developer based in Bhavnagar, Gujarat, India. My ex
 - Laravel
 - MongoDB
 
-## 👯 I'm Looking to Collaborate On
-
-I'm not actively looking to collaborate on any projects right now, but I'm open to interesting ideas. Feel free to reach out!
 
 ## 🤔 I'm Looking for
 
