@@ -43,6 +43,6 @@ Will Tell you Later...
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagnesh-midnight&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagnesh-midnight&show_icons=true&hide=prs)
 
 <!-- You can customize the above URL with your GitHub username -->
