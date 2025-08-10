@@ -1,48 +1,62 @@
-# Hello, I'm Yagnesh Bhanani! 👋
+<p align="center" style="display: none;">
+  <img src="banner.png" alt="Yagnesh Bhanani – Insomniacs Digital Freelance Developer" width="100%" />
+</p>
 
-I'm a passionate Backend Web Developer based in Bhavnagar, Gujarat, India. My expertise lies in Core PHP and I'm always eager to learn and explore new things.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+I’m+Yagnesh+Bhanani;Freelance+Developer+@+Insomniacs+Digital+Pvt.+Ltd.;Core+PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB" alt="Typing Intro" />
+  </a>
+</p>
 
-## 🔧 Technologies & Tools
+---
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-![Core PHP](https://img.shields.io/badge/-Core%20PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=XAMPP&logoColor=white)
-![MySQL Workspace](https://img.shields.io/badge/-MySQL%20Workspace-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+###  About Me
+-  Freelance Backend Web Developer at **Insomniacs Digital Pvt. Ltd.**
+-  Based in **Bhavnagar, Gujarat, India**
+-  Passionate about Core PHP, Laravel, and scalable backend systems
+-  Always learning: currently exploring **MongoDB**, **React.js**, and **API Design**
 
-## 🌱 I'm Currently Learning
+---
 
-- Laravel
-- MongoDB
+###  Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,html,css,js,bootstrap,git,github,postman,vscode" />
+</p>
 
+---
 
-## 🤔 I'm Looking for
+###  Featured Projects
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yagnesh-midnight&repo=CRUD-Laravel&theme=tokyonight" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yagnesh-midnight&repo=your-other-repo&theme=tokyonight" /></a>
+</p>
 
-I'm currently looking for project ideas and database design challenges. If you have any suggestions or interesting concepts, I'd love to hear about them.
+---
 
-## 💬 Ask Me About
+###  GitHub Stats & Language Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagnesh-midnight&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagnesh-midnight&theme=tokyonight" height="160" />
+</p>
 
-I'm happy to help with anything related to Core PHP Projects Whether it's coding, problem-solving, or career advice, feel free to ask!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagnesh-midnight&layout=compact&theme=tokyonight" />
+</p>
 
-## 📫 How to Reach Me
+---
 
-- LinkedIn: Yagnesh Bhanani ([https://in.linkedin.com/in/yagnesh-bhanani-9a9b62237])
-- Email: yagneshbhanani@gmail.com
+###  Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/yagnesh-bhanani-9a9b62237" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yagneshbhanani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 😄 Pronouns
+---
 
-He/Him
-
-## ⚡ Fun Fact
-
-Will Tell you Later...
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagnesh-midnight&show_icons=true&hide=prs)
-
-<!-- You can customize the above URL with your GitHub username -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yagnesh-midnight&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
