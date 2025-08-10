@@ -1,10 +1,7 @@
-<p align="center" style="display: none;">
-  <img src="banner.png" alt="Yagnesh Bhanani – Insomniacs Digital Freelance Developer" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+I’m+Yagnesh+Bhanani;Freelance+Developer+@+Insomniacs+Digital+Pvt.+Ltd.;Core+PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+I’m+Yagnesh+Bhanani;Freelance+Developer+@+Insomniacs+Digital+Pvt.+Ltd.;Core+PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB" alt="Typing Intro" />
   </a>
 </p>
 
@@ -28,7 +25,6 @@
 ###  Featured Projects
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yagnesh-midnight&repo=CRUD-Laravel&theme=tokyonight" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yagnesh-midnight&repo=your-other-repo&theme=tokyonight" /></a>
 </p>
 
 ---
