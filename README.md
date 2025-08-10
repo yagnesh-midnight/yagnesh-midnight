@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+I’m+Yagnesh+Bhanani;Web+Developer+@+Insomniacs+Digital+Pvt.+Ltd.;Core+PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+I’m+Yagnesh+Bhanani;Freelance+Web+Developer+@+Insomniacs+Digital+Pvt.+Ltd.;Core+PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB" alt="Typing Intro" />
   </a>
 </p>
 
